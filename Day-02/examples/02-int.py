@@ -2,6 +2,10 @@
 num1 = 10
 num2 = 5
 
+# Float Division
+result0 = num1 / num2
+print("Floar Division:", result0)
+
 # Integer Division
 result1 = num1 // num2
 print("Integer Division:", result1)
