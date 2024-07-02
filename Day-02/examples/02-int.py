@@ -17,3 +17,6 @@ print("Modulus (Remainder):", result2)
 # Absolute Value
 result3 = abs(-7)
 print("Absolute Value:", result3)
+
+result4 = num2 - num1
+print(abs(result4))
